@@ -1,17 +1,17 @@
 [
- {
-   "As_of": "Jan.16",
-   "Visits": 2550935,
-   "Pageviews": 6543914
- },
- {
-   "As_of": "Feb.16",
-   "Visits": 2231039,
-   "Pageviews": 5549634
- },
- {
-   "As_of": "Mar.16",
-   "Visits": 2691228,
-   "Pageviews": 6431801
- },
- ]
+   {
+      "As_of":"Jan.16",
+      "Visits":2550935,
+      "Pageviews":6543914
+   },
+   {
+      "As_of":"Feb.16",
+      "Visits":2231039,
+      "Pageviews":5549634
+   },
+   {
+      "As_of":"Mar.16",
+      "Visits":2691228,
+      "Pageviews":6431801
+   }
+]
